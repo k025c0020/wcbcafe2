@@ -256,7 +256,10 @@ img {
     .about{
         margin: 4rem auto 0;
     }
-
+    /* ニュース */
+    .cover-news{
+        background-image: url("../images/cover-news-l.webp");
+    }
     /* フッター */
     .page-footer {
         background-image: url("../images/footer-l.webp");
